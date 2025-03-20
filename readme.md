@@ -36,11 +36,27 @@ Data from the year 2024 were incomplete and subsequently excluded to eliminate d
 
 #### b. Data Visualization Suite:
 - **Proportionate Analysis of BEV and PHEV Vehicles:** Inclusive of both absolute totals and relative percentages using dynamic calculated fields.  
+
+![BEV vs PHEV Distribution](./screenshots/bev_phev_distribution.png)
+
 - **Visual Constructs Developed:**  
-  - Longitudinal trend of vehicle registrations by model year  
-  - Geospatial distribution by county  
-  - Parametric analysis of top vehicle manufacturers based on registration volume  
-  - Predictive modeling of EV adoption trends using Tableau's exponential smoothing forecast with multiplicative seasonality, incorporating 95% confidence intervals
+  - **Longitudinal trend of vehicle registrations by model year**  
+    ![Registration Trends](./screenshots/registration_trends.png)
+    
+  - **Geospatial distribution by county**  
+    ![County Distribution Map](./screenshots/geospatial_distribution.png)
+    
+  - **Parametric analysis of top vehicle manufacturers based on registration volume**  
+    ![Top Manufacturers](./screenshots/top_manufacturers.png)
+    
+  - **Predictive modeling of EV adoption trends using Tableau's exponential smoothing forecast**  
+    ![Forecast Model](./screenshots/forecast_model.png)
+
+  - **Analysis of vehicles by CAFV eligibility**  
+    ![CAFV Eligibility](./screenshots/Total%20Vehicles%20by%20CAFV%20Eligibility.PNG)
+    
+  - **Top vehicle models by registration count**  
+    ![Top Vehicle Models](./screenshots/Top%20Vehicle%20Models.PNG)
 
 - **Parametric Controls:**  
   An interactive **Top N Parameter** was integrated for stakeholder-driven analysis of manufacturers and models.  
